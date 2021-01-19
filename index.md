@@ -1,92 +1,57 @@
-Ron deBoer
-==========
+<!-- The (first) h1 will be used as the <title> of the HTML page -->
+# Ron deBoer
 
--------------------                            ----------------------------
-Melbourne, VIC                                         ron.deboer@ymail.com
-Australia                 https://www.linkedin.com/in/ron-deboer-21b844157/
--------------------                            ----------------------------
+<!-- The unordered list immediately after the h1 will be formatted on a single
+line. It is intended to be used for contact details -->
+- <ron.deboer@ymail.com>
 
-Experience
-----------
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
+is intended to be used for a short summary. -->
+CEO and Software Engineer with knowledge of applied information theory,
+including optimizing lossless compression schema of both the length-limited and
+adaptive variants.
 
-**Your Most Recent Work Experience:**
+## Experience
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+<!-- You have to wrap the "left" and "right" half of these headings in spans by
+hand -->
+### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
 
-* First item
+Pied Piper is a multi-platform technology based on a proprietary universal
+compression algorithm that has consistently fielded high Weisman Scores™ that
+are not merely competitive, but approach the theoretical limit of lossless
+compression.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+ - Build an algorithm for artist to detect if their music was violating
+   copyright infringement laws
+ - Successfully won Techcrunch Disrupt
+ - Optimized an algorithm that holds the current world record for Weisman Scores
 
-**That Other Job You Had**
+### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
 
-Also with a short description.
+Global movement of free coding clubs for young people.
+ 
+ - Awarded 'Teacher of the Month'
 
-Technical Experience
---------------------
+## Projects
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+### <span>Miss Direction</span> <span>Aug 2016</span>
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+A mapping engine that misguides you:
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+   - Won award at AIHacks 2016
+   - Built by all women team of newbie programmers
+   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+## Education
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+  - GPA 4.0
+  - DB1101 - Basic SQL
+  - CS2011 - Java Introduction
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+## Skills
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+ - Web development: HTML, CSS, JavaScript
+ - Compression: Mpeg, MP4, GIF
