@@ -1,11 +1,10 @@
-Johnny Coder
-============
+Ron deBoer
+==========
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+-------------------                            ----------------------------
+Melbourne, VIC                                         ron.deboer@ymail.com
+Australia                 https://www.linkedin.com/in/ron-deboer-21b844157/
+-------------------                            ----------------------------
 
 Experience
 ----------
