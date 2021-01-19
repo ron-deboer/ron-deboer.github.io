@@ -2,25 +2,23 @@
 ## Senior Developer & Software Engineer
 
 > [ron.deboer@ymail.com](mailto:ron.deboer@ymail.com)
-> Melbourne VIC Australia
+>      Melbourne VIC Australia
 
 ------
 
 ### Technical
 
-1. Java
-1. Android / iOS
-1. Javascript / NodeJS
+1. DotNet, DotNet Core
+1. PHP
+1. Angular
+1. React
+1. Javascript / Typescript / NodeJS
+1. Bootstrap
+1. C# / C++ / C
 1. Python
-1. Git / SVN
-1. Cordova
-<!-- 1. Spring / Wicket -->
-1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
-1. PostgreSQL / MySQL
-1. Backbone.js
+1. Git
+1. Sqlserver / PostgreSQL / MySQL
+1. JQuery
 
 ------
 
