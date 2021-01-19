@@ -24,25 +24,17 @@
 
 ### Experience
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
+**Tabcorp Pty Ltd** *Senior Developer / Software Engineer* __2014 to present__
+	Develop new features for online Gamings application software. 
+	Diagnose and fix bugs in existing online software.
+	Participate in Agile Scrum project management and delivery.
 	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
-
-**Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
+	
+**Vodafone Pty Ltd** *Data Analyst / Senior Developer* __2008 to 2013__
 	Designed and implemented features and improvements for multiple enterprise sized applications.
 	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
 	Provided quality solutions to mission critical production issues in a timely manner.
 	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
-	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
-
-**We Can Pretend** *Technical Consultant* __2011__
-	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
-	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
-	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
-	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
 
 <!--
 **Redline Distribution** *Web Application Developer* __2008__
