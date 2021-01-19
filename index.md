@@ -8,17 +8,19 @@
 
 ### Technical
 
-1. Linux / Windows / Android
-1. DotNet / DotNet Core / PHP
-1. Angularjs / Reactjs
-1. Visual Studio / VSCode
-1. Javascript / Typescript / NodeJS
-1. Bootstrap
-1. C# / C++ / C
-1. Python / Golang
-1. Git / Jira / Azure / AWS / Docker / Jenkins / Buildkite
-1. Sqlserver / PostgreSQL / MySQL / MongoDB
-1. JQuery
+|    | Technical                                               |
+|----|---------------------------------------------------------|
+| 1  | DotNet / DotNet Core / PHP                              |
+| 2  | Angularjs / Reactjs                                     |
+| 3  | Visual Studio / VSCode                                  |
+| 4  | Linux / Windows / Android                               |
+| 5  | Javascript / Typescript / NodeJS                        |
+| 6  | Bootstrap / Material                                    |
+| 7  | C# / C++ / C                                            |
+| 8  | Python / Golang                                         |
+| 9  | Git / Jira / Azure / AWS / Docker / Jenkins / Buildkite |
+| 10 | Sqlserver / PostgreSQL / MySQL / MongoDB                |
+| 11 | JQuery                                                  |
 
 ------
 
