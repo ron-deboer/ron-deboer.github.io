@@ -8,16 +8,16 @@
 
 ### Technical
 
-1. DotNet, DotNet Core
-1. PHP
-1. Angular
-1. React
+1. Linux / Windows / Android
+1. DotNet / DotNet Core / PHP
+1. Angularjs / Reactjs
+1  Visual Studio / VSCode
 1. Javascript / Typescript / NodeJS
 1. Bootstrap
 1. C# / C++ / C
-1. Python
-1. Git
-1. Sqlserver / PostgreSQL / MySQL
+1. Python / Golang
+1. Git / Jira / Azure / AWS / Docker / Jenkins / Buildkite
+1. Sqlserver / PostgreSQL / MySQL / MongoDB
 1. JQuery
 
 ------
