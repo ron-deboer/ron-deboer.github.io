@@ -8,7 +8,7 @@
 
 ### Technical
 
-|    | Technical                                               |
+|    | Skill                                                   |
 |----|---------------------------------------------------------|
 | 1  | DotNet / DotNet Core / PHP                              |
 | 2  | Angularjs / Reactjs                                     |
