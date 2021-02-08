@@ -26,7 +26,7 @@
 
 ### Experience
 
-**Tabcorp Pty Ltd** *Senior Fullstack Developer / Software Engineer* __2014 to present__ \
+**Tabcorp Pty Ltd** *Senior Fullstack Developer / Senior Software Engineer* __2014 to present__ \
 	> Develop new features and services for online gambling and gaming application software. \
 	> Synthesize quality solutions to mission critical production issues in a timely manner. \
 	> Develop CI/CD pipelines. \
@@ -40,13 +40,13 @@
 	> Provided quality solutions to mission critical production issues in a timely manner. \
 	> Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments. 
 	
-**Data Active Pty Ltd** *Technical Lead* __2002 to 2008__ \
+**Data Active Pty Ltd** *Technical Lead* __2000 to 2006__ \
 	> Establish technical standards for software development processes. \
 	> Specify hardware requirements for expansion of existing infrastructure. \
-	> Recruitment, selection and induction of technical staffs. \
-	> Implement technical risk management plans. \
+	> Recruitment, selection and induction of technical staff. \
+	> Develop and implement technical risk management plans. \
 	> Provided quality solutions to mission critical production issues in a timely manner. \
-	> Train end users in the use of telemarketing and contact management application software. \
+	> Develop training programs for end-user training in the use of inhouse application software. \
 	> Import, parse and clean customer data lists.
 
 ------
@@ -56,5 +56,5 @@
 **Bachelor of Software Engineering** - *1997 to 1999* \
 	RMIT, Melbourne, Australia
 	
-**Diploma of Management** - *2014 to 2014* \
+**Diploma of Management** - *2013 to 2013* \
 	Melbourne, Australia
