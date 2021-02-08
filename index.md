@@ -53,8 +53,8 @@
 
 ### Education
 
-**Bachelor of Software Engineering** *1997 to 1999* \
+**Bachelor of Software Engineering** - *1997 to 1999* \
 	RMIT, Melbourne, Australia
 	
-**Diploma of Management** *2014 to 2014* \
+**Diploma of Management** - *2014 to 2014* \
 	Melbourne, Australia
