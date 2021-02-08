@@ -33,20 +33,20 @@
 	- Participate in Agile Scrum project management and delivery. \
 	- Collaborated with and guided team members transitioning to client side architecture. 
 	
-**Vodafone Pty Ltd** *Data Analyst / Senior Developer* __2008 to 2013__
-	> Designed and implemented features and improvements for multiple enterprise sized applications.
-	> Automated manual report generation for legacy service and support system to provide reliable team analytics.
-	> Automated weekly manufacturer warranty claims.
-	> Provided quality solutions to mission critical production issues in a timely manner.
-	> Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
+**Vodafone Pty Ltd** *Data Analyst / Senior Developer* __2008 to 2013__ \
+	> Designed and implemented features and improvements for multiple enterprise sized applications. \
+	> Automated manual report generation for legacy service and support system to provide reliable team analytics. \
+	> Automated weekly manufacturer warranty claims. \
+	> Provided quality solutions to mission critical production issues in a timely manner. \
+	> Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments. 
 	
-**Data Active Pty Ltd** *Technical Lead* __2002 to 2008__
-	- Establish technical standards for software development processes.
-	- Specify hardware requirements for expansion of existing infrastructure.
-	- Recruitment, selection and induction of technical staffs.
-	- Implement technical risk management plans.
-	- Provided quality solutions to mission critical production issues in a timely manner.
-	- Train end users in the use of telemarketing and contact management application software.
+**Data Active Pty Ltd** *Technical Lead* __2002 to 2008__ \
+	- Establish technical standards for software development processes. \
+	- Specify hardware requirements for expansion of existing infrastructure. \
+	- Recruitment, selection and induction of technical staffs. \
+	- Implement technical risk management plans. \
+	- Provided quality solutions to mission critical production issues in a timely manner. \
+	- Train end users in the use of telemarketing and contact management application software. \
 	- Import, parse and clean customer data lists.
 
 ------
