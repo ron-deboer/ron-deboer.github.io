@@ -26,12 +26,12 @@
 
 ### Experience
 
-**Tabcorp Pty Ltd** *Senior Fullstack Developer / Software Engineer* __2014 to present__
-	Develop new features and services for online gaming application software. 
-	Diagnose and fix bugs in existing online software.
-	Develop CI/CD pipelines.
-	Participate in Agile Scrum project management and delivery.
-	Collaborated with and guided team members transitioning to client side architecture.
+**Tabcorp Pty Ltd** *Senior Fullstack Developer / Software Engineer* __2014 to present__ \
+	Develop new features and services for online gambling and gaming application software. \
+	Synthesize quality solutions to mission critical production issues in a timely manner. \
+	Develop CI/CD pipelines. \
+	Participate in Agile Scrum project management and delivery. \
+	Collaborated with and guided team members transitioning to client side architecture. \
 	
 **Vodafone Pty Ltd** *Data Analyst / Senior Developer* __2008 to 2013__
 	Designed and implemented features and improvements for multiple enterprise sized applications.
