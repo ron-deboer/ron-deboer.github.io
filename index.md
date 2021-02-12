@@ -55,7 +55,7 @@
 
 |                     | Source                                  |  Demo
 |---------------------|-----------------------------------------|-------------------------------------------|
-| Angular-10 WebApp   | https://github.com/ron-deboer/          | https://ron-deboer.github.io/btl/login    |
+| Angular-10 WebApp   | https://github.com/ron-deboer/btl       | https://ron-deboer.github.io/btl          |
 | DotNetCore WebApi   |                                         |                                           |
 
 ------
