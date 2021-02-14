@@ -31,14 +31,14 @@
 	> Synthesize quality solutions to mission critical production issues in a timely manner. \
 	> Develop CI/CD pipelines. \
 	> Participate in Agile Scrum project management and delivery. \
-	> Collaborated with and other teams to develop and implement high quality software solutions. 
+	> Collaborated with other teams to develop and implement high quality software solutions. 
 	
 **Vodafone Pty Ltd** *Data Analyst / Senior Developer* __2006 to 2012__ \
 	> Designed and implemented features and improvements for multiple enterprise sized applications. \
 	> Automated manual report generation for legacy service and support system to provide reliable team analytics. \
-	> Automated generation and submission of weekly manufacturer warranty claims. \
+	> Automated generation and submission of weekly manufacturer warranty claims via a browser based web ui. \
 	> Provided quality solutions to mission critical production issues in a timely manner. \
-	> Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments. 
+	> Proposed, designed and implemented a realtime deployment and dashboard system for test environments. 
 	
 **Data Active Pty Ltd** *Technical Lead* __2000 to 2006__ \
 	> Establish technical standards for the entire software development processes. \
