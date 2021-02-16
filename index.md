@@ -23,7 +23,7 @@
 | 11 | JQuery, CodeIgniter, RabbitMQ, Redis                    |
 
 ------
-
+<div style="page-break-after: always"></div>
 ### Relevant IT Experience
 
 **Tabcorp Pty Ltd** *Senior Fullstack Developer / Senior Software Engineer* __2014 to present__ \
@@ -50,7 +50,7 @@
 	> Import, parse and clean customer contact lists.
 
 ------
-
+<div style="page-break-after: always"></div>
 ### Portfolio
 
 |                                 | Source                                  |  Demo
