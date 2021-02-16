@@ -20,7 +20,7 @@
 | 8  | Python, Golang                                          |
 | 9  | Git, Jira, Azure, AWS, Docker, Jenkins, Buildkite       |
 | 10 | Sqlserver, PostgreSQL, MySQL, MongoDB                   |
-| 11 | JQuery, CodeIgniter                                     |
+| 11 | JQuery, CodeIgniter, RabbitMQ, Redis                    |
 
 ------
 
