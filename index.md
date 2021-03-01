@@ -16,11 +16,10 @@
 | 4  | Linux, Windows, Android                                 |
 | 5  | Javascript, Typescript, NodeJS                          |
 | 6  | Bootstrap, Material Design                              |
-| 7  | C#, C++, C                                              |
-| 8  | Python, Golang                                          |
-| 9  | Git, Jira, Azure, AWS, Docker, Jenkins, Buildkite       |
-| 10 | Sqlserver, PostgreSQL, MySQL, MongoDB                   |
-| 11 | JQuery, CodeIgniter, RabbitMQ, Redis                    |
+| 7  | C#, C++, C, Python, Golang, TDD                         |
+| 8  | Git, Jira, Azure, AWS, Docker, Jenkins, Buildkite       |
+| 9  | Sqlserver, PostgreSQL, MySQL, MongoDB                   |
+| 10 | JQuery, CodeIgniter, RabbitMQ, Redis                    |
 
 ------
 <div style="page-break-after: always"></div>
