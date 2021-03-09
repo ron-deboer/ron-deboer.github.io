@@ -26,8 +26,8 @@
 ### Relevant IT Experience
 
 **Tabcorp Pty Ltd** *Senior Fullstack Developer / Senior Software Engineer* __2014 to present__ \
-	> Develop new features, services and REST apis for online gambling and gaming application software. \
-	> Use in Reactjs, DotNetCore and Angular to synthesize quality solutions to mission critical production issues in a timely manner. \
+	> Use Reactjs, DotNetCore, Angular and PHP to Develop new features, services and REST apis for online gambling and gaming application software. \
+	> Synthesize quality solutions to mission critical production issues in a timely manner. \
 	> Develop CI/CD pipelines. \
 	> Participate in Agile Scrum project management and delivery. \
 	> Collaborated with other teams to develop and implement high quality software solutions. 
