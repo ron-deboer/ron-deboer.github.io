@@ -30,7 +30,7 @@
 	> Synthesize quality solutions to mission critical production issues in a timely manner. \
 	> Develop CI/CD pipelines. \
 	> Participate in Agile Scrum project management and delivery. \
-	> Collaborated with other teams to develop and implement high quality software solutions. 
+	> Collaborate with other teams to develop and implement high quality software solutions. 
 	
 **Vodafone Pty Ltd** *Data Analyst / Senior Developer* __2006 to 2012__ \
 	> Designed and implemented features and improvements for multiple enterprise sized applications. \
