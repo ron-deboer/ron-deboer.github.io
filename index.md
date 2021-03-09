@@ -28,7 +28,7 @@
 **Tabcorp Pty Ltd** *Senior Fullstack Developer / Senior Software Engineer* __2014 to present__ \
 	> Use Reactjs, DotNetCore, Angular and PHP to Develop new features, services and REST apis for online wagering application software. \
 	> Synthesize quality solutions to mission critical production issues in a timely manner. \
-	> Develop CI/CD pipelines. \
+	> Develop CI/CD pipelines for production and multiple test environments. \
 	> Participate in Agile Scrum project management and delivery. \
 	> Collaborate with other teams to develop and implement high quality software solutions. 
 	
