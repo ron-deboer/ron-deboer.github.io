@@ -56,7 +56,7 @@
 |---------------------------------|-----------------------------------------|-------------------------------------------|
 | Angular-10 WebApp               | [https://github.com/ron-deboer/btl](https://github.com/ron-deboer/btl)       | [https://ron-deboer.github.io/btl](https://ron-deboer.github.io/btl)          |
 | React WebApp  | [https://github.com/ron-deboer/btl-react](https://github.com/ron-deboer/btl-react)    | [https://ron-deboer.github.io/btl-react](https://ron-deboer.github.io/btl-react)      |
-| DotNetCore WebApi (Dockerized)  | [https://github.com/ron-deboer/btlwebapi](https://github.com/ron-deboer/btlwebapi)    |                                           |
+| DotNetCore WebApi (Dockerized)  | [https://github.com/ron-deboer/btlwebapi](https://github.com/ron-deboer/btlwebapi)    |  [demo](http://http://45.79.236.39/)                                         |
 
 ------
 
