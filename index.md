@@ -16,7 +16,7 @@
 | 4  | Linux, Windows, Android                                 |
 | 5  | Javascript, Typescript, NodeJS                          |
 | 6  | Bootstrap, Material Design                              |
-| 7  | C#, C++, C, Python, Golang, TDD                         |
+| 7  | C#, C++, C, Python, Golang + Gin, TDD                   |
 | 8  | Git, Jira, Azure, AWS, Docker, Jenkins, Buildkite       |
 | 9  | Sqlserver, PostgreSQL, MySQL, MongoDB                   |
 | 10 | JQuery, CodeIgniter, RabbitMQ, Redis                    |
