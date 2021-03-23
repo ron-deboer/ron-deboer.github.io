@@ -56,8 +56,8 @@
 |---------------------------------|-----------------------------------------|-------------------------------------------|
 | Angular10 WebApp               | [https://github.com/ron-deboer/btl](https://github.com/ron-deboer/btl)       | [demo](https://ron-deboer.github.io/btl)      |
 | Reactjs WebApp  | [https://github.com/ron-deboer/btl-react](https://github.com/ron-deboer/btl-react)    | [demo](https://ron-deboer.github.io/btl-react)      |
-| DotNetCore WebApi (Dockerized)  | [https://github.com/ron-deboer/btlwebapi](https://github.com/ron-deboer/btlwebapi)    |  [demo](https://dev22.com.au/)      |
-| Golang RESTful api (Dockerized) | [https://github.com/ron-deboer/restapi](https://github.com/ron-deboer/restapi)    | [demo](https://dev22.com.au/)      |
+| DotNetCore WebApi (Dockerized)  | [https://github.com/ron-deboer/btlwebapi](https://github.com/ron-deboer/btlwebapi)    |  [demo](https://dev22.com.au/dotnetwebapi.html)      |
+| Golang RESTful api (Dockerized) | [https://github.com/ron-deboer/restapi](https://github.com/ron-deboer/restapi)    | [demo](https://dev22.com.au/golangwebapi.html)      |
 
 ------
 
