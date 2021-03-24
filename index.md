@@ -11,7 +11,7 @@
 |    | Skill                                                   |
 |----|---------------------------------------------------------|
 | 1  | DotNet, DotNet Core, PHP                                |
-| 2  | Angularjs, Reactjs, Nextjs                              |
+| 2  | Angular, Reactjs                                        |
 | 3  | Visual Studio, VSCode                                   |
 | 4  | Linux, Windows                                          |
 | 5  | Javascript, Typescript, NodeJS                          |
