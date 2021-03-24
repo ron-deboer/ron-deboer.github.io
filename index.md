@@ -13,7 +13,7 @@
 | 1  | DotNet, DotNet Core, PHP                                |
 | 2  | Angularjs, Reactjs, Nextjs                              |
 | 3  | Visual Studio, VSCode                                   |
-| 4  | Linux, Windows, Android                                 |
+| 4  | Linux, Windows                                          |
 | 5  | Javascript, Typescript, NodeJS                          |
 | 6  | Bootstrap, Material Design                              |
 | 7  | C#, C++, C, Python, Golang + Gin, TDD                   |
