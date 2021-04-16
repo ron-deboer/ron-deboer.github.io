@@ -25,7 +25,7 @@
 <div style="page-break-after: always"></div>
 ### Relevant IT Experience
 
-**Tabcorp Pty Ltd** *Senior Fullstack Developer / Senior Software Engineer* __2014 to present__ \
+**Tabcorp Pty Ltd** *Senior Fullstack Developer / Senior Software Engineer* __2014 to 2021__ \
 	> Use Reactjs, DotNetCore, Angular and PHP to Develop new features, services and REST apis for online wagering application software. \
 	> Synthesize quality solutions to mission critical production issues in a timely manner. \
 	> Develop CI/CD pipelines for production and multiple test environments. \
@@ -60,12 +60,3 @@
 | Golang RESTful api (Dockerized) | [https://github.com/ron-deboer/restapi](https://github.com/ron-deboer/restapi)    | [demo](https://dev22.com.au/golangwebapi.html)      |
 
 ------
-<!--
-### Education
-
-**Bachelor of Software Engineering** - *1997 to 1999* \
-	RMIT, Melbourne, Australia
-	
-**Diploma of Management** - *2013 to 2013* \
-	RMIT, Melbourne, Australia
--->
