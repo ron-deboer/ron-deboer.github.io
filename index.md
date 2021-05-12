@@ -60,3 +60,7 @@
 | Golang RESTful api (Dockerized) | [https://github.com/ron-deboer/restapi](https://github.com/ron-deboer/restapi)    | [demo](https://dev22.com.au/golangwebapi.html)      |
 
 ------
+<div style="page-break-after: always"></div>
+### Education
+**Bachelor of Software Engineering** __1998 to 2000__ \
+**Diploma of Management** __2013 to 2013__
