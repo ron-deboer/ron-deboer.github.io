@@ -63,5 +63,5 @@
 <div style="page-break-after: always"></div>
 
 ### Education
-**Bachelor of Software Engineering** - *__1998 to 2000__* \
-**Diploma of Management** - *__2013 to 2013__*
+**Bachelor of Software Engineering** - *RMIT - 1998 to 2000* \
+**Diploma of Management** - *RMIT - 2013 to 2013*
