@@ -63,5 +63,5 @@
 <div style="page-break-after: always"></div>
 
 ### Education
-**Bachelor of Software Engineering** *__1998 to 2000__* \
-**Diploma of Management** *__2013 to 2013__*
+**Bachelor of Software Engineering** - *__1998 to 2000__* \
+**Diploma of Management** - *__2013 to 2013__*
