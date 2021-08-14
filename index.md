@@ -26,6 +26,7 @@
 ### Relevant IT Experience
 
 **Tabcorp Pty Ltd** *Senior Fullstack Developer / Senior Software Engineer* __2014 to 2021__ \
+        > Develop secure authenticated RESTful APIs using Python + Django / Flask
 	> Use Reactjs, DotNetCore, Angular and PHP to Develop new features, services and REST apis for online wagering application software. \
 	> Synthesize quality solutions to mission critical production issues in a timely manner. \
 	> Develop CI/CD pipelines for production and multiple test environments. \
@@ -63,5 +64,5 @@
 <div style="page-break-after: always"></div>
 
 ### Education
-**Bachelor of Software Engineering** - *RMIT - 1998 to 2000* \
-**Diploma of Management** - *RMIT - 2013 to 2013*
+**Bachelor of Software Engineering** - *RMIT :  1998 to 2000* \
+**Diploma of Management** - *RMIT : 2013 to 2013*
