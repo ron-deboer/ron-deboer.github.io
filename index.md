@@ -10,16 +10,17 @@
 
 |    | Skill                                                   |
 |----|---------------------------------------------------------|
-| 1  | DotNet, DotNet Core, PHP                                |
-| 2  | Angular, Reactjs                                        |
-| 3  | Visual Studio, VSCode                                   |
-| 4  | Linux, Windows                                          |
-| 5  | Javascript, Typescript, NodeJS                          |
-| 6  | Bootstrap, Material Design                              |
-| 7  | C#, C++, C, Python, Golang + Gin, TDD                   |
-| 8  | Git, Jira, Azure, AWS, Docker, Jenkins, Buildkite       |
-| 9  | Sqlserver, PostgreSQL, MySQL, MongoDB                   |
-| 10 | JQuery, CodeIgniter, RabbitMQ, Redis                    |
+| 1  | Python, Django, Flask
+| 2  | DotNet, DotNet Core, PHP                                |
+| 3  | Angular, Reactjs                                        |
+| 4  | Visual Studio, VSCode                                   |
+| 5  | Linux, Windows                                          |
+| 6  | Javascript, Typescript, NodeJS                          |
+| 7  | Bootstrap, Material Design                              |
+| 8  | C#, C++, C, Python, Golang + Gin, TDD                   |
+| 9  | Git, Jira, Azure, AWS, Docker, Jenkins, Buildkite       |
+| 10  | Sqlserver, PostgreSQL, MySQL, MongoDB                  |
+| 11 | JQuery, CodeIgniter, RabbitMQ, Redis                    |
 
 ------
 <div style="page-break-after: always"></div>
