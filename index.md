@@ -10,9 +10,9 @@
 
 |    | Skill                                                   |
 |----|---------------------------------------------------------|
-| 1  | Python, Django, Flask
+| 1  | Python, Django, Flask                                   |
 | 2  | DotNet, DotNet Core, PHP                                |
-| 3  | Angular, Reactjs                                        |
+| 3  | Angular, ReactJS, React Native                          |
 | 4  | Visual Studio, VSCode                                   |
 | 5  | Linux, Windows                                          |
 | 6  | Javascript, Typescript, NodeJS                          |
