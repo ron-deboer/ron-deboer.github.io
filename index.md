@@ -37,7 +37,7 @@
 	
 **Vodafone Pty Ltd** *Data Analyst / Software Developer* __2007 to 2012__ 
   - Develop and implement real time dashboards for management level and board level audiences 
-  - Automate weekly warranty claim batch submissions to device manufacturers 
+  - Automate warranty claim batch submissions to device manufacturers 
   - Develop reporting applications using OOP PHP and MS-Excel VBA scripts 
   - Perform data analysis and reporting on service data
 
