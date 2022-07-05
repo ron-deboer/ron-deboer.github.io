@@ -21,6 +21,7 @@
 
 ------
 <div style="page-break-after: always"></div>
+
 ### Relevant IT Experience
 
 **Tabcorp Pty Ltd** *Web Developer / Senior Software Engineer* __2013 to 2021__ 
@@ -42,6 +43,7 @@
 
 ------
 <div style="page-break-after: always"></div>
+
 ### Portfolio
 
 |                                 | Source                                  |  Demo
@@ -55,6 +57,7 @@
 <div style="page-break-after: always"></div>
 
 ### Education
+
 **Certifcate IV Web Development** : *Holmesglen Institute - 2021 to 2022* \
 **Diploma Management** : *Selmar Institute - 2011 to 2012* \
 **Bachelor Electronic Engineering** : *RMIT -  1998 to 2000* \
