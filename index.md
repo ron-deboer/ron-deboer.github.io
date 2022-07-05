@@ -8,16 +8,16 @@
 
 ### Technical
 
-|    | Skill                                                   |
-|----|---------------------------------------------------------|
-| 1  | ReactJS, NextJS, AngularJS                              |
-| 2  | Secure RESTful APIs, DotNet, NodeJS, Docker, OOP PHP    |
-| 3  | MySQL, Linux, Apache, SQL Server, MongoDB               |
-| 4  | AWS, Azure, CI/CD, Github, Jira, Jenkins, Buildkite     |
-| 5  | Agile Scrum, Kanban, TDD                                |
-| 6  | Javascript, Typescript, SCSS                            |
-| 7  | Bootstrap, Material Design                              |
-| 8  | C#, C++, C, Python, Golang                              |
+|    | Skill                                                       |
+|----|-------------------------------------------------------------|
+| 1  | ReactJS, NextJS, AngularJS                                  |
+| 2  | Secure RESTful APIs, DotNet, NodeJS, Docker, OOP PHP        |
+| 3  | MySQL, Linux, Apache, SQL Server, MongoDB                   |
+| 4  | AWS, Azure, CI/CD, Github, Jira, Jenkins, Buildkite         |
+| 5  | Agile Scrum, Kanban, TDD                                    |
+| 6  | Javascript, Typescript, SCSS                                |
+| 7  | Bootstrap, Material Design                                  |
+| 8  | C#, C++, C, Python, Golang                                  |
 
 ------
 <div style="page-break-after: always"></div>
@@ -46,12 +46,13 @@
 
 ### Portfolio
 
-| Item                            | Source                                  |
-|---------------------------------|-----------------------------------------|
+|                                 | Source                                                                                |
+|---------------------------------|---------------------------------------------------------------------------------------|
 | ReactJS WebApp                  | [https://github.com/ron-deboer/btl-react](https://github.com/ron-deboer/btl-react)    |
-| Angular10 WebApp                | [https://github.com/ron-deboer/btl](https://github.com/ron-deboer/btl)       |
+| Angular10 WebApp                | [https://github.com/ron-deboer/btl](https://github.com/ron-deboer/btl)                |
 | DotNetCore WebApi (Dockerized)  | [https://github.com/ron-deboer/btlwebapi](https://github.com/ron-deboer/btlwebapi)    |
-| Golang RESTful API (Dockerized) | [https://github.com/ron-deboer/restapi](https://github.com/ron-deboer/restapi)    |
+| Golang RESTful API (Dockerized) | [https://github.com/ron-deboer/restapi](https://github.com/ron-deboer/restapi)        |
+
 ------
 <div style="page-break-after: always"></div>
 
