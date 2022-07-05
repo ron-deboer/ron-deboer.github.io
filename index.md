@@ -46,13 +46,12 @@
 
 ### Portfolio
 
-|                                 | Source                                  |  Demo
-|---------------------------------|-----------------------------------------|-------------------------------------------|
-| ReactJS WebApp                  | [https://github.com/ron-deboer/btl-react](https://github.com/ron-deboer/btl-react)    | [demo](https://ron-deboer.github.io/btl-react)      |
-| Angular10 WebApp                | [https://github.com/ron-deboer/btl](https://github.com/ron-deboer/btl)       | [demo](https://ron-deboer.github.io/btl)      |
-| DotNetCore WebApi (Dockerized)  | [https://github.com/ron-deboer/btlwebapi](https://github.com/ron-deboer/btlwebapi)    |  [demo](https://dev22.com.au/dotnetwebapi.html)      |
-| Golang RESTful API (Dockerized) | [https://github.com/ron-deboer/restapi](https://github.com/ron-deboer/restapi)    | [demo](https://dev22.com.au/golangwebapi.html)      |
-
+|                                 | Source                                  | 
+|---------------------------------|-----------------------------------------|
+| ReactJS WebApp                  | [https://github.com/ron-deboer/btl-react](https://github.com/ron-deboer/btl-react)    | 
+| Angular10 WebApp                | [https://github.com/ron-deboer/btl](https://github.com/ron-deboer/btl)       |
+| DotNetCore WebApi (Dockerized)  | [https://github.com/ron-deboer/btlwebapi](https://github.com/ron-deboer/btlwebapi)    | 
+| Golang RESTful API (Dockerized) | [https://github.com/ron-deboer/restapi](https://github.com/ron-deboer/restapi)    | 
 ------
 <div style="page-break-after: always"></div>
 
