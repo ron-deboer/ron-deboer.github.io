@@ -10,13 +10,13 @@
 
 |    | Skill                                                       |
 |----|-------------------------------------------------------------|
-| 1  | ReactJS, NextJS, AngularJS                                  |
+| 1  | Vue.js ReactJS, AngularJS                                   |
 | 2  | Secure RESTful APIs, DotNet, NodeJS, Docker, OOP PHP        |
 | 3  | MySQL, Linux, Apache, SQL Server, MongoDB                   |
 | 4  | AWS, Azure, CI/CD, Github, Jira, Jenkins, Buildkite         |
 | 5  | Agile Scrum, Kanban, TDD                                    |
 | 6  | Javascript, Typescript, SCSS                                |
-| 7  | Bootstrap, Material Design                                  |
+| 7  | Bootstrap, Material Design, Figma                           |
 | 8  | C#, C++, C, Python, Golang                                  |
 
 ------
@@ -27,7 +27,7 @@
 **Tabcorp Pty Ltd** *Web Developer / Senior Software Engineer* __2013 to 2021__ 
   - Develop secure RESTful API microservices using DotNetCore (C#), NodeJS and Docker 
   - Design frontend interfaces using Figma 
-  - Develop frontend apps using HTML, CSS, Javascript, ReactJS, NextJS, Angular, Bootstrap 
+  - Develop frontend apps using HTML, CSS, Javascript, ReactJS, Vue.js, Angular, Bootstrap 
   - Establish and maintain development standards including TDD, E2E testing and documentation 
   - Establish test and staging environments on AWS using AWS toolset, NodeJS, BuildKite 
   - Project planning and management using Agile Scrum, Kanban 
