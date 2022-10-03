@@ -26,11 +26,11 @@
 
 **Tabcorp Pty Ltd** *Web Developer / Senior Software Engineer* __2013 to 2021__ 
   - Develop secure RESTful API microservices using DotNetCore (C#), NodeJS and Docker 
-  - Design frontend interfaces using Figma 
-  - Develop frontend apps using HTML, CSS, Javascript, ReactJS, Vue.js, Angular, Bootstrap 
+  - Design frontend user interfaces using Figma 
+  - Develop frontend apps using VueJS, HTML, CSS, Javascript, ReactJS, AngularJS, Bootstrap 
   - Establish and maintain development standards including TDD, E2E testing and documentation 
   - Establish test and staging environments on AWS using AWS toolset, NodeJS, BuildKite 
-  - Project planning and management using Agile Scrum, Kanban 
+  - Project planning and management using Agile Scrum, Kanban, Jira, Trello
   - Implement and support CI/CD, interfacing with GitHub, AWS and Azure 
   - Mentor and lead less experienced software engineering staff 
   - Provide live level-2 technical support for Wagering and Media application software
