@@ -10,7 +10,7 @@
 
 |    | Skill                                                       |
 |----|-------------------------------------------------------------|
-| 1  | Vue.js ReactJS, AngularJS                                   |
+| 1  | VueJS, ReactJS, AngularJS                                   |
 | 2  | Secure RESTful APIs, DotNet, NodeJS, Docker, OOP PHP        |
 | 3  | MySQL, Linux, Apache, SQL Server, MongoDB                   |
 | 4  | AWS, Azure, CI/CD, Github, Jira, Jenkins, Buildkite         |
