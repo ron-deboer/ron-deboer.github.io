@@ -58,8 +58,8 @@
 
 ### Education
 
-**Bachelor Information Systems - Imcomplete** : *Holmesglen Institute - 2022 to * \
-**Certifcate IV Web Development** : *Holmesglen Institute - 2021 to 2022* \
-**Diploma Management** : *Selmar Institute - 2011 to 2012* \
-**Bachelor Engineering - Electronics ** : *RMIT -  1998 to 2000* \
+**Bachelor of Information Systems - Incomplete** : *Holmesglen Institute - 2022 to * \
+**Certifcate IV in Web Development** : *Holmesglen Institute - 2021 to 2022* \
+**Diploma of Management** : *Selmar Institute - 2011 to 2012* \
+**Bachelor of Engineering - Electronics ** : *RMIT -  1998 to 2000* \
 **Licenced Aircraft Maintenance Engineer - Avionics** : *DCA -  1992 to 1993* 
